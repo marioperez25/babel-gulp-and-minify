@@ -10,3 +10,6 @@
 <code>gulp babel</code>
 <p>Para minificar el codigo en dist/js y enviarlo a temp/js :</p>
 <code>gulp babel-minify</code>
+
+<p>Para minificar el codigo en dist/js y enviarlo a temp/js :</p>
+<p>Para borrar las carpetas generadas utiliza <code>delete-dist</code> o <code>delete-temp</code></p>
