@@ -3,7 +3,7 @@
 <p>Clonar el repo:</p>
 <code>git clone https://github.com/marioperez25/babel-gulp-and-minify</code>
 <p>instalar dependencias</p>
-<code>npm update</code>
+<code>npm install</code>
 <hr>
 <h3>Tareas disponibles en el gulpfile</h3>
 <p>Para transpilar de es6 en la carpeta src/js a es5 en la carpeta dist/js :</p>
